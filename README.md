@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akritiyadav.github.io/portfolio/](https://akritiyadav.github.io/portfolio/)
 
-- 💬 Ask me about **C++, DSA, Full stack**
+- 💬 Ask me about **C++, DSA, Development**
 
 - 📫 How to reach me **akritiyadav895@gmail.com**
 
