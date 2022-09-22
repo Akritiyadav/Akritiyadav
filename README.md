@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966)](https://Akritiyadav.io)
 <h1 align="center">Hi 👋, I'm Akriti Yadav</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akritiyadav&label=Profile%20views&color=0e75b6&style=flat" alt="akritiyadav" /> </p>
