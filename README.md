@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akritiyadav&label=Profile%20views&color=0e75b6&style=flat" alt="akritiyadav" /> </p>
 
-- 🌱 I’m currently learning **React.JS**
+
 
 - 👨‍💻 All of my projects are available at [https://akritiyadav.github.io/portfolio/](https://akritiyadav.github.io/portfolio/)
 
