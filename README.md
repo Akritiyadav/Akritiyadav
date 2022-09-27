@@ -14,7 +14,6 @@
 - 📫 How to reach me **akritiyadav895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 </p>
 
